@@ -1,0 +1,12 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Debug@NavBarToolbar" count="6" />
+      <entry action="Stop@NavBarToolbar" count="1" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction@TOOL_WINDOW_TOOLBAR" count="1" />
+      <entry action="com.android.tools.idea.configurations.ThemeMenuAction@toolbar" count="1" />
+      <entry action="com.android.tools.idea.fd.actions.HotswapAction@NavBarToolbar" count="1" />
+      <entry action="com.android.tools.idea.uibuilder.property.ViewAllPropertiesAction@TOOL_WINDOW_TOOLBAR" count="1" />
+    </counts>
+  </component>
+</application>
